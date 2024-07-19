@@ -1,0 +1,55 @@
+h1{
+    color: red;
+}
+
+    p {  
+        font-size: 120%; 
+         color:black;
+        border-style: solid;  
+        border-width: 5px; 
+        border-color: purple;
+        white-space: nowrap;
+        }
+
+.center {  
+display: block; 
+margin: auto;
+}
+
+}img {  
+    margin: auto;
+    }
+    img {  
+        padding-top: 40px;  
+        padding-right: 25px;  
+        padding-bottom: 40px;  
+        padding-left: 25px;
+        }
+        header{
+
+            height:70px;
+            
+            background:#222;
+            
+            position:fixed;
+            
+            width:100%;
+            
+            z-index:99;
+            
+            }
+            ul{
+                list-style-type: none;
+                background-color:khaki;
+                padding-right:0px;
+                width:30%;
+             }
+             li{
+                color:#00b318;
+                padding: 20px;
+                font-family: iransansweb;
+                border-bottom: 1px solid rgba(0, 179, 24, 0.4);
+             }
+             و نتیجه به شکل زیر خواهد بود:
+
+            
